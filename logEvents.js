@@ -21,6 +21,4 @@ const logEvents = async (message) => {
   }
 };
 
-logEvents("it works");
-
 module.exports = logEvents;
